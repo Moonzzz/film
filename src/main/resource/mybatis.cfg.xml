@@ -10,6 +10,4 @@
         <!-- 拦截器配置 -->
         <plugin interceptor="com.moon.interceptor.SqlCostInterceptor" />
     </plugins>
-    <mappers>
-    </mappers>
 </configuration>
