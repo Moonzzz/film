@@ -8,6 +8,6 @@
     </settings>
     <plugins>
         <!-- 拦截器配置 -->
-        <plugin interceptor="com.aiit.interceptor.SqlCostInterceptor" />
+        <plugin interceptor="com.moon.interceptor.SqlCostInterceptor" />
     </plugins>
 </configuration>
